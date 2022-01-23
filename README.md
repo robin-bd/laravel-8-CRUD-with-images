@@ -7,6 +7,8 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
+# Laravel 8 User Roles & Permissions and Product CRUD With Images Tutorial
+
 ## Install This Project
 
 Downlaod the project from github
