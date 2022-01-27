@@ -11,6 +11,8 @@
 
 ## Install This Project
 
+you can follow full step by step guide from [Laravel 8 CRUD](https://ksharing.info/laravel-8-user-roles-permissions-and-product-crud-with-images/)
+
 Downlaod the project from github
 
 set database config at .env file
@@ -39,6 +41,14 @@ default email and password for admin access
 email: admin@email.com
 password: 123456
 ```
+
+## Screenshot
+
+
+![user role permissions](https://ksharing.info/wp-content/uploads/2022/01/user-role-Permissions.jpg)
+
+
+![Product CRUD](https://ksharing.info/wp-content/uploads/2022/01/product.jpg)
 
 ## About Laravel
 

@@ -21,12 +21,10 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-  
 
 Auth::routes();
   
 Route::get('/home', [HomeController::class, 'index'])->name('home');
-//Route::get('/allproduct/pdf', [ProductController::class, 'createPDF']);
   
 
 Route::group(['middleware' => ['auth']], function() {
